@@ -1,1 +1,1 @@
-worker: python3 Hans-Bot.py
+worker: python Hans-Bot.py
