@@ -61,7 +61,7 @@ async def delete(ctx):
     message = ctx.message
     await client.delete_message(message)
 
-client.run("NDU2NzUxMjYwNzA0NTcxMzk0.DgPIBw.7d4BjJIqyiO2nQR7vVUF_J4vuC0")
+client.run")
 
 
 
